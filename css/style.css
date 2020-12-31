@@ -5211,16 +5211,16 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", arial, sans-serif; }
 
 ::-webkit-selection {
-  color: #818892;
-  background: #f9f6f0; }
+  color: #fff;
+  background: #1877f2; }
 
 ::-moz-selection {
-  color: #818892;
-  background: #f9f6f0; }
+  color: #fff;
+  background: #1877f2; }
 
 ::selection {
-  color: #818892;
-  background: #f9f6f0; }
+  color: #fff;
+  background: #1877f2; }
 
 #fh5co-header {
   float: left;
